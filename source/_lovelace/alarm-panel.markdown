@@ -80,5 +80,5 @@ states:
   - arm_home
   - arm_away
   - arm_night
-  - armed_custom_bypass
+  - arm_custom_bypass
 ```
